@@ -1,8 +1,9 @@
 # A minimalistic reproduction of key Pandas API endpoints
 
-The aim is to develop a small library that supports a set of common features found in Pandas.
+The aim is to develop a small library that supports a set of common features found in [Pandas](https://pandas.pydata.org/).
 
 ## Getting started
+Requires python 3.6+
 
 ```
 chmod +x run.sh
@@ -109,7 +110,4 @@ else:
 # write the dataframe to csv
 fm.to_csv(df_output, output_path)
 ```
-
-### Prerequisites
-* python 3.6+
 
