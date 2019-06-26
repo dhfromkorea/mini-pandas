@@ -4,7 +4,6 @@ output/*.txt
 input/**/*.txt
 output/**/*.txt
 output/**/*.txt
-insight_testsuite/tests/test_6/**/*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
